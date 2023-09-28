@@ -1,0 +1,37 @@
+
+h1{
+font-family: 'Gugi', cursive;
+color:#F8EDE8;
+font-size: 70px;
+text-align: center;
+}
+
+h2{
+font-family: 'Gugi', cursive;
+color:#F8EDE8;
+font-size: 30px;
+text-align: center;
+}
+
+p{
+font-family: 'Poppins', sans-serif;
+color:#F8EDE8;
+font-size: 20px;
+text-align: center;
+}
+
+Body{
+text-align: center;
+background-color:#B66142;
+padding-left: 70px;
+padding-right: 70px;
+}
+
+div {
+  border: 10px solid floralwhite;
+  border-color:#F8EDE8 ;
+  padding: 10px;
+  margin: 50px;
+}
+
+
